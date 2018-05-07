@@ -1,0 +1,9 @@
+C:\Users\tong\Desktop\ch9\my\my\bin\Debug\my.exe.config
+C:\Users\tong\Desktop\ch9\my\my\bin\Debug\my.exe
+C:\Users\tong\Desktop\ch9\my\my\bin\Debug\my.pdb
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.csprojResolveAssemblyReference.cache
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.Form1.resources
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.Properties.Resources.resources
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.csproj.GenerateResource.Cache
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.exe
+C:\Users\tong\Desktop\ch9\my\my\obj\Debug\my.pdb

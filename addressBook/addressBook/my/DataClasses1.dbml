@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_EMS" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=db_EMS;Integrated Security=True" SettingsObjectName="my.Properties.Settings" SettingsPropertyName="db_EMSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_student" Member="tb_student">
+    <Type Name="tb_student">
+      <Column Name="id" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="sex" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="phone" Type="System.Double" DbType="Float" IsPrimaryKey="true" CanBeNull="true" />
+      <Column Name="qq" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="weixin" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
